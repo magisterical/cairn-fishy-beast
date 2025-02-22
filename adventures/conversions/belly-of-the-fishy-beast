@@ -1,0 +1,48 @@
+---
+layout: default
+parent: Conversions
+grand_parent: Adventures
+title: Belly of the Fishy Beast
+nav_exclude: true
+search_exclude: true
+---
+
+# Belly of the Fishy Beast
+
+- Based on the [Belly of the Fishy Beast](https://dreamingdragonslayer.itch.io/belly-of-the-fishy-beast2) by [Dreaming Dragonslayer](https://dreamingdragonslayer.com).
+- Conversion by [Gordon](https://magisterical.itch.io/]
+
+## General Notes
+- Put any notes on the conversion here!
+- You can list monsters & NPCs separately or by the location they can be found
+
+## Monsters or NPCs
+
+### Chanting Squid Man
+Monster 1
+- Monster special (critical damage, abilities)
+- More monster specials, etc.
+
+### Leather Bat Wing Creatures
+Very territorial, aggressive
+- Monster special (critical damage, abilities)
+- More monster specials, etc.
+
+
+## Locations
+### Stomach
+#### Green Stomach Acid
+- d6 STR damage if touched
+
+Chanting Squid Man: stats as Mind Lasher
+
+Leather Bat Wing Creatures: 4HP, 0 ARM, 10 STR, 14 DEX, 12 WIL, bite (d6) 
+
+Fish-Man Guards: 8HP, 1 ARM, 14 STR, 12 DEX, 11 WIL, Trident (d8)
+
+Fish-Man Nobles: 4 HP, 0 ARM, 10 STR, 8 DEX, 12 WIL, Fishy Slap (d4)
+
+King Fish-Man: 6HP, 1 ARM, 10 STR, 10 DEX, 15 WIL, Silver Fork (d6)
+
+Electric Eel: 6HP, 0 ARM, 8 STR, 13 DEX, 10 WIL, Electric Shock (d6)
+Critical Damage: If the victim is wearing metal then they take an extra d4 STR damage.
